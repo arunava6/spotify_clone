@@ -1,4 +1,4 @@
-body{
+/* body{
     font-family: "Montserrat", serif;
     margin:0;
     background-color: black;
@@ -14,9 +14,9 @@ body{
 .sidebar{
     background-color:black;
     width:340px;
-    border-radius: 1rem; /* 16px*/
+    border-radius: 1rem; 
     margin-right: 0.65rem;
-}
+} */
 .main_content{
     background-color:#121212;
     flex:1;
